@@ -1,1 +1,1 @@
-Link to the sample section: [Link Text](Никита_Наумов).
+Link to the sample section: [Никита Наумов](github.com/capti).
