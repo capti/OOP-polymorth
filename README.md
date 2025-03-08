@@ -1,1 +1,1 @@
-[https://github.com/dobrayAnika](Доброва Анна)
+Link to the sample section: [Link Text](#sample-section).
