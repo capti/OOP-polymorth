@@ -1,1 +1,1 @@
-Link to the sample section: [Link Text](Никита Наумов).
+Link to the sample section: [Link Text](Никита_Наумов).
